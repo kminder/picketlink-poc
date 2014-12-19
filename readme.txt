@@ -6,8 +6,8 @@ Client Protocoal: saml
 Include AuthnStatement: OFF
 Multi-valued Roles: OFF
 Sign Documents: OFF
-Sign Assertsion: OFF
-Encrypt Assertsion: OFF
+Sign Assertion: OFF
+Encrypt Assertion: OFF
 Client Signature Required: OFF
 Force POST Binding: OFF
 Redirect URI: http://localhost:8888/ui/*
